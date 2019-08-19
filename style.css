@@ -1,0 +1,7 @@
+.template {
+    width: 100%;
+    border: 1px solid #b56666;
+    text-align: center;
+    flex-direction: row;
+    align-self: center;
+}
